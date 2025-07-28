@@ -1,6 +1,0 @@
-fzf
-fd
-ripgrep
-git
-curl
-luarocks (?)
