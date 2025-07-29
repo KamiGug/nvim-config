@@ -1,0 +1,9 @@
+lazygit
+blink-cmp - rust implementation
+git signs
+
+no merging of >=
+none-ls (null-ls)
+
+
+customize dashboard
