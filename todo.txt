@@ -1,6 +1,6 @@
-lazygit
-blink-cmp - rust implementation
+make the line numbering normal!
 git signs
+
 
 no merging of >=
 none-ls (null-ls)
