@@ -3,8 +3,11 @@
 -- Add any additional options here
 
 vim.opt.relativenumber = false
+vim.opt.wrap = false
+vim.opt.colorcolumn = "120"
 
 vim.diagnostic.config({
+  severity_sort = true,
   virtual_text = false,
   virtual_lines = {
     only_current_line = true,
